@@ -1,0 +1,10 @@
+* deoxybyte-utilities
+
+General purpose Common Lisp utilities.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/keithj/deoxybyte-utilities.git   |
+| commit  | 7215a08  |
+| systems | deoxybyte-utilities |
+|---------+-------------------------------------------|
+
