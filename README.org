@@ -8,4 +8,4 @@ General purpose Common Lisp utilities.
 | systems | deoxybyte-utilities |
 |---------+-------------------------------------------|
 
- 
+  
